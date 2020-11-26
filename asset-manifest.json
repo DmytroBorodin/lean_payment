@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lean_react_app/static/css/main.64b6a726.chunk.css",
-    "main.js": "/lean_react_app/static/js/main.7bf31e75.chunk.js",
-    "main.js.map": "/lean_react_app/static/js/main.7bf31e75.chunk.js.map",
-    "runtime-main.js": "/lean_react_app/static/js/runtime-main.b781e5cf.js",
-    "runtime-main.js.map": "/lean_react_app/static/js/runtime-main.b781e5cf.js.map",
-    "static/js/2.3a62c1a3.chunk.js": "/lean_react_app/static/js/2.3a62c1a3.chunk.js",
-    "static/js/2.3a62c1a3.chunk.js.map": "/lean_react_app/static/js/2.3a62c1a3.chunk.js.map",
-    "static/js/3.cd54bb5e.chunk.js": "/lean_react_app/static/js/3.cd54bb5e.chunk.js",
-    "static/js/3.cd54bb5e.chunk.js.map": "/lean_react_app/static/js/3.cd54bb5e.chunk.js.map",
+    "main.css": "/lean_react_app/static/css/main.4f89c8b9.chunk.css",
+    "main.js": "/lean_react_app/static/js/main.28752e10.chunk.js",
+    "main.js.map": "/lean_react_app/static/js/main.28752e10.chunk.js.map",
+    "runtime-main.js": "/lean_react_app/static/js/runtime-main.1dc9eab0.js",
+    "runtime-main.js.map": "/lean_react_app/static/js/runtime-main.1dc9eab0.js.map",
+    "static/js/2.a47734dc.chunk.js": "/lean_react_app/static/js/2.a47734dc.chunk.js",
+    "static/js/2.a47734dc.chunk.js.map": "/lean_react_app/static/js/2.a47734dc.chunk.js.map",
+    "static/js/3.8af6380b.chunk.js": "/lean_react_app/static/js/3.8af6380b.chunk.js",
+    "static/js/3.8af6380b.chunk.js.map": "/lean_react_app/static/js/3.8af6380b.chunk.js.map",
     "index.html": "/lean_react_app/index.html",
-    "static/css/main.64b6a726.chunk.css.map": "/lean_react_app/static/css/main.64b6a726.chunk.css.map",
-    "static/js/2.3a62c1a3.chunk.js.LICENSE.txt": "/lean_react_app/static/js/2.3a62c1a3.chunk.js.LICENSE.txt",
+    "static/css/main.4f89c8b9.chunk.css.map": "/lean_react_app/static/css/main.4f89c8b9.chunk.css.map",
+    "static/js/2.a47734dc.chunk.js.LICENSE.txt": "/lean_react_app/static/js/2.a47734dc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lean_react_app/static/media/icomoon.d0a9394b.eot",
     "static/media/logo_min.0b0c417b.png": "/lean_react_app/static/media/logo_min.0b0c417b.png",
     "static/media/user.39cac7c2.svg": "/lean_react_app/static/media/user.39cac7c2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b781e5cf.js",
-    "static/js/2.3a62c1a3.chunk.js",
-    "static/css/main.64b6a726.chunk.css",
-    "static/js/main.7bf31e75.chunk.js"
+    "static/js/runtime-main.1dc9eab0.js",
+    "static/js/2.a47734dc.chunk.js",
+    "static/css/main.4f89c8b9.chunk.css",
+    "static/js/main.28752e10.chunk.js"
   ]
 }
