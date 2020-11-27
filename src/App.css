@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
+@import url('./assets/fonts/style.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&family=Rubik:wght@300;400;500&display=swap');
+
+/*Reset*/
+* {
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+}
+a, img, button, input {
+  display: block;
+}
+a, img, button {
+  cursor: pointer;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+a {
+  text-decoration: none;
+}
+button:focus, input:focus {
+  outline: none;
+}
+ul {
+  list-style-type: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/*Main settings*/
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html {
+  font-size: 10px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#root {
+  width: 100%;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  overflow: hidden;
+}
+.wrap {
+  width: 100%;
+  height: 100vh;
+  background-color: #F5F6F8;
+  display: grid;
+  grid-template-columns: 1fr 4.625fr;
+}
+.wrapper {
+  width: auto;
+  height: 100vh;
+  overflow: auto;
+}
+.component__wrapper {
+  padding: 2.88% 4.07% 2.88% 2.72%;
+}
+.component__title {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 2.4rem;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  color: #000000;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #3E8CE2;
+}
+.title__row {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+::-webkit-scrollbar {
+  width: 0.4rem;
+  height: 100%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 0.2rem;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.8);
+}
+@media screen and (max-width: 767px){
+  .wrap {
+    grid-template-columns: 1fr 10.625fr;
   }
-  to {
-    transform: rotate(360deg);
+}
+@media screen and (max-width: 575px){
+  .wrap {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  .wrapper {
+    width: auto;
+    height: calc(100vh - 8rem);
+    overflow-y: scroll;
   }
 }
