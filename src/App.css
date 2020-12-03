@@ -52,6 +52,9 @@ html {
   height: 100vh;
   overflow: auto;
 }
+.row {
+  display: flex;
+}
 .component__wrapper {
   padding: 2.88% 4.07% 2.88% 2.72%;
 }
@@ -68,6 +71,11 @@ html {
 .title__row {
   display: flex;
   align-items: center;
+}
+.text__link {
+  display: inline;
+  color: #3E8CE2;
+  font-size: inherit;
 }
 ::-webkit-scrollbar {
   width: 0.4rem;

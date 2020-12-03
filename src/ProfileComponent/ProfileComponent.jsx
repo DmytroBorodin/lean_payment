@@ -11,18 +11,21 @@ const Profile = (props) => {
         {
             linkId: 'basic_info',
             linkTitle: 'Basic Information',
+            exactPath: 'profile',
         },
         {
             linkId: 'personal_address',
             linkTitle: 'Personal Address',
+            exactPath: 'profile',
         },
         {
             linkId: 'identification',
             linkTitle: 'Identification',
+            exactPath: 'profile',
         }
     ]
 
-    let links = linksState.map(item => <NavBarLink linkId={item.linkId} url={url} linkTitle={item.linkTitle}/>)
+    let links = linksState.map(item => <NavBarLink exactPath={item.exactPath} linkId={item.linkId} url={url} linkTitle={item.linkTitle}/>)
     return (
         <div className='component__wrapper profile'>
             <h2 className="component__title">
