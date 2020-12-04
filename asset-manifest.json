@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lean_react_app/static/css/main.38fe6873.chunk.css",
+    "main.css": "/lean_react_app/static/css/main.066d210b.chunk.css",
     "main.js": "/lean_react_app/static/js/main.62a575a0.chunk.js",
     "main.js.map": "/lean_react_app/static/js/main.62a575a0.chunk.js.map",
     "runtime-main.js": "/lean_react_app/static/js/runtime-main.c87b4721.js",
@@ -10,7 +10,7 @@
     "static/js/3.3ced35ea.chunk.js": "/lean_react_app/static/js/3.3ced35ea.chunk.js",
     "static/js/3.3ced35ea.chunk.js.map": "/lean_react_app/static/js/3.3ced35ea.chunk.js.map",
     "index.html": "/lean_react_app/index.html",
-    "static/css/main.38fe6873.chunk.css.map": "/lean_react_app/static/css/main.38fe6873.chunk.css.map",
+    "static/css/main.066d210b.chunk.css.map": "/lean_react_app/static/css/main.066d210b.chunk.css.map",
     "static/js/2.af445f9f.chunk.js.LICENSE.txt": "/lean_react_app/static/js/2.af445f9f.chunk.js.LICENSE.txt",
     "static/media/bc_img_1.9f2bd1d9.png": "/lean_react_app/static/media/bc_img_1.9f2bd1d9.png",
     "static/media/bc_img_2.5de505b4.svg": "/lean_react_app/static/media/bc_img_2.5de505b4.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.c87b4721.js",
     "static/js/2.af445f9f.chunk.js",
-    "static/css/main.38fe6873.chunk.css",
+    "static/css/main.066d210b.chunk.css",
     "static/js/main.62a575a0.chunk.js"
   ]
 }
