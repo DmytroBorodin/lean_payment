@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/lean_react_app/static/css/main.0d8fc151.chunk.css",
-    "main.js": "/lean_react_app/static/js/main.e876bc14.chunk.js",
-    "main.js.map": "/lean_react_app/static/js/main.e876bc14.chunk.js.map",
-    "runtime-main.js": "/lean_react_app/static/js/runtime-main.4e32e2e7.js",
-    "runtime-main.js.map": "/lean_react_app/static/js/runtime-main.4e32e2e7.js.map",
-    "static/js/2.a47734dc.chunk.js": "/lean_react_app/static/js/2.a47734dc.chunk.js",
-    "static/js/2.a47734dc.chunk.js.map": "/lean_react_app/static/js/2.a47734dc.chunk.js.map",
-    "static/js/3.2cf97f33.chunk.js": "/lean_react_app/static/js/3.2cf97f33.chunk.js",
-    "static/js/3.2cf97f33.chunk.js.map": "/lean_react_app/static/js/3.2cf97f33.chunk.js.map",
+    "main.css": "/lean_react_app/static/css/main.aae8259d.chunk.css",
+    "main.js": "/lean_react_app/static/js/main.71fe729b.chunk.js",
+    "main.js.map": "/lean_react_app/static/js/main.71fe729b.chunk.js.map",
+    "runtime-main.js": "/lean_react_app/static/js/runtime-main.c87b4721.js",
+    "runtime-main.js.map": "/lean_react_app/static/js/runtime-main.c87b4721.js.map",
+    "static/js/2.aed8fe97.chunk.js": "/lean_react_app/static/js/2.aed8fe97.chunk.js",
+    "static/js/2.aed8fe97.chunk.js.map": "/lean_react_app/static/js/2.aed8fe97.chunk.js.map",
+    "static/js/3.3ced35ea.chunk.js": "/lean_react_app/static/js/3.3ced35ea.chunk.js",
+    "static/js/3.3ced35ea.chunk.js.map": "/lean_react_app/static/js/3.3ced35ea.chunk.js.map",
     "index.html": "/lean_react_app/index.html",
-    "static/css/main.0d8fc151.chunk.css.map": "/lean_react_app/static/css/main.0d8fc151.chunk.css.map",
-    "static/js/2.a47734dc.chunk.js.LICENSE.txt": "/lean_react_app/static/js/2.a47734dc.chunk.js.LICENSE.txt",
+    "static/css/main.aae8259d.chunk.css.map": "/lean_react_app/static/css/main.aae8259d.chunk.css.map",
+    "static/js/2.aed8fe97.chunk.js.LICENSE.txt": "/lean_react_app/static/js/2.aed8fe97.chunk.js.LICENSE.txt",
     "static/media/bc_img_1.9f2bd1d9.png": "/lean_react_app/static/media/bc_img_1.9f2bd1d9.png",
     "static/media/bc_img_2.5de505b4.svg": "/lean_react_app/static/media/bc_img_2.5de505b4.svg",
     "static/media/App.css": "/lean_react_app/static/media/icomoon.f0f584ef.svg",
     "static/media/logo_min.0b0c417b.png": "/lean_react_app/static/media/logo_min.0b0c417b.png",
     "static/media/BusinessIncorporation.css": "/lean_react_app/static/media/pencil.ce118eae.svg",
+    "static/media/search.292690cd.svg": "/lean_react_app/static/media/search.292690cd.svg",
     "static/media/user.39cac7c2.svg": "/lean_react_app/static/media/user.39cac7c2.svg",
     "static/media/user_1.a6736289.svg": "/lean_react_app/static/media/user_1.a6736289.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e32e2e7.js",
-    "static/js/2.a47734dc.chunk.js",
-    "static/css/main.0d8fc151.chunk.css",
-    "static/js/main.e876bc14.chunk.js"
+    "static/js/runtime-main.c87b4721.js",
+    "static/js/2.aed8fe97.chunk.js",
+    "static/css/main.aae8259d.chunk.css",
+    "static/js/main.71fe729b.chunk.js"
   ]
 }
